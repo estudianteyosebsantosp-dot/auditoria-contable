@@ -1,0 +1,6 @@
+{
+  "name": "AUDITA WEB",
+  "description": "Plataforma inteligente de auditoría contable para análisis de archivos Excel y CSV, detección de inconsistencias y generación de informes ejecutivos con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
